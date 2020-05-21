@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Git\\ChibiBlazor\\ChibiBlazor\\ChibiBlazor.csproj": {}
+    "C:\\Git\\ChibiBlazor\\ChibiBlazor.csproj": {}
   },
   "projects": {
-    "C:\\Git\\ChibiBlazor\\ChibiBlazor\\ChibiBlazor.csproj": {
+    "C:\\Git\\ChibiBlazor\\ChibiBlazor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\ChibiBlazor\\ChibiBlazor\\ChibiBlazor.csproj",
+        "projectUniqueName": "C:\\Git\\ChibiBlazor\\ChibiBlazor.csproj",
         "projectName": "ChibiBlazor",
-        "projectPath": "C:\\Git\\ChibiBlazor\\ChibiBlazor\\ChibiBlazor.csproj",
+        "projectPath": "C:\\Git\\ChibiBlazor\\ChibiBlazor.csproj",
         "packagesPath": "C:\\Users\\30133973\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\ChibiBlazor\\ChibiBlazor\\obj\\",
+        "outputPath": "C:\\Git\\ChibiBlazor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
